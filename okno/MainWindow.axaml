@@ -9,6 +9,5 @@
         WindowStartupLocation="CenterScreen"
         CanResize="False"
         WindowState="Maximized">
-
-    Welcome to Avalonia!
+    Witaj w moim oknie!
 </Window>
