@@ -9,5 +9,5 @@
         WindowStartupLocation="CenterScreen"
         CanResize="False"
         WindowState="Maximized">
-   <TextBlock Text="Twoje zdanie" FontSize="32" FontWeight="Bold" FontStyle="Italic" />
+    <TextBlock Text="Twoje zdanie" FontSize="32" FontWeight="Bold" FontStyle="Italic" Foreground="#C05621" />
 </Window>
