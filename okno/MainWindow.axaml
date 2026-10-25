@@ -9,5 +9,5 @@
         WindowStartupLocation="CenterScreen"
         CanResize="False"
         WindowState="Maximized">
-    Witaj w moim oknie!
+   <TextBlock Text="Twoje zdanie" />
 </Window>
